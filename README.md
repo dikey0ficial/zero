@@ -9,4 +9,4 @@ under copyright. So let's make zero free and open!
 
 
 *Idea from [comment](https://habr.com/ru/news/t/647607/#comment_23986211)
-by auth0r from habr*
+by acc0unt from habr*
