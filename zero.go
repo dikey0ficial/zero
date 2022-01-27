@@ -1,3 +1,3 @@
-package main
+package zero
 
 const zero = 0
