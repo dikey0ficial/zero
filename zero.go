@@ -1,3 +1,3 @@
 package zero
 
-const zero = 0
+const Zero = 0
