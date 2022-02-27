@@ -1,1 +1,2 @@
-0
+@echo off
+set /A zero = 0
