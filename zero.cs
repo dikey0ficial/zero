@@ -1,1 +1,1 @@
-0
+using System; byte zero = 0;
