@@ -1,1 +1,1 @@
-var zero:Int = 0
+var zero:Int = 0;
