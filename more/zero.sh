@@ -1,1 +1,1 @@
-zero=0
+set zero=0
