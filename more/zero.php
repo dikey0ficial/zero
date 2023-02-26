@@ -1,1 +1,3 @@
-0
+<?php
+	$zero = zero
+>
